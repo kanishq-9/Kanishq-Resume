@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Kanishq-Resume/static/css/main.4371a74c.css",
+    "main.js": "/Kanishq-Resume/static/js/main.6a5db0a6.js",
+    "static/media/map.png": "/Kanishq-Resume/static/media/map.d21d7a246291a0997309.png",
+    "static/media/forkify.png": "/Kanishq-Resume/static/media/forkify.438fc2f8a827c72a6535.png",
+    "static/media/newsApp.png": "/Kanishq-Resume/static/media/newsApp.2f9d30443e7bee6ca56c.png",
+    "static/media/youtube.png": "/Kanishq-Resume/static/media/youtube.4668b5d6324117a58296.png",
+    "static/media/Game.png": "/Kanishq-Resume/static/media/Game.573a308aeadbeb12d1a2.png",
+    "static/media/profile_Image.png": "/Kanishq-Resume/static/media/profile_Image.c931479603e271d8280e.png",
+    "static/media/seasons.png": "/Kanishq-Resume/static/media/seasons.fd52b2cf6243d5e1235e.png",
+    "static/media/experience.gif": "/Kanishq-Resume/static/media/experience.fb340a0fa60a2d56f9f0.gif",
+    "index.html": "/Kanishq-Resume/index.html",
+    "main.4371a74c.css.map": "/Kanishq-Resume/static/css/main.4371a74c.css.map",
+    "main.6a5db0a6.js.map": "/Kanishq-Resume/static/js/main.6a5db0a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4371a74c.css",
+    "static/js/main.6a5db0a6.js"
+  ]
+}
