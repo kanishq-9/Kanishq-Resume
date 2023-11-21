@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Kanishq-Resume/static/css/main.4371a74c.css",
-    "main.js": "/Kanishq-Resume/static/js/main.6a5db0a6.js",
+    "main.js": "/Kanishq-Resume/static/js/main.7c7bc9b5.js",
     "static/media/map.png": "/Kanishq-Resume/static/media/map.d21d7a246291a0997309.png",
     "static/media/forkify.png": "/Kanishq-Resume/static/media/forkify.438fc2f8a827c72a6535.png",
     "static/media/newsApp.png": "/Kanishq-Resume/static/media/newsApp.2f9d30443e7bee6ca56c.png",
@@ -12,10 +12,10 @@
     "static/media/experience.gif": "/Kanishq-Resume/static/media/experience.fb340a0fa60a2d56f9f0.gif",
     "index.html": "/Kanishq-Resume/index.html",
     "main.4371a74c.css.map": "/Kanishq-Resume/static/css/main.4371a74c.css.map",
-    "main.6a5db0a6.js.map": "/Kanishq-Resume/static/js/main.6a5db0a6.js.map"
+    "main.7c7bc9b5.js.map": "/Kanishq-Resume/static/js/main.7c7bc9b5.js.map"
   },
   "entrypoints": [
     "static/css/main.4371a74c.css",
-    "static/js/main.6a5db0a6.js"
+    "static/js/main.7c7bc9b5.js"
   ]
 }
